@@ -6,11 +6,9 @@ Type "help" in command line mode to see the full list of commands + options
 
 ================================
 
-LICENSE INFO
+LICENSE INFO (copied from LICENSE.txt)
 
 ================================
-
-(copied from LICENSE.txt)
 
 Public Domain Dedication
 
